@@ -1,1 +1,0 @@
-nasm -felf64 ./utils.nasm -o ./build/main.o  && ld ./build/main.o -o ./build/main.out && ./build/main.out
